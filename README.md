@@ -1,7 +1,10 @@
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=70A5FB&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Yuna+Jeong.;I%E2%80%99m+a+student+front-end+developer.;I'm+still+studying+hard+for+growth+today.;Do+you+want+to+know+about+me%3F" alt="Typing SVG" />
 </div>
 
+<br><br>
 
 <div align="center">
   <a href="https://solved.ac/whitefhrh/">
@@ -9,7 +12,7 @@
   </a>
 </div>
 
-<br><br><br><br><br>
+<br><br>
 
 <div align="center">
   <h3>✨Tech Stack✨</h3>
