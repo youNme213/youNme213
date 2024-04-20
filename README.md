@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=70A5FB&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Yuna+Jeong.;I%E2%80%99m+a+student+front-end+developer.;I'm+still+studying+hard+for+growth+today.;Do+you+want+to+know+about+me%3F" alt="Typing SVG" />
 </div>
 
+
+<div align="center">
+  <a href="https://solved.ac/whitefhrh/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whitefhrh" alt="Solved.ac Profile">
+  </a>
+</div>
+
+<br><br><br><br><br>
+
 <div align="center">
   <h3>✨Tech Stack✨</h3>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -33,8 +42,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
 
-
-
-<br><br><br>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=youNme213&theme=tokyo-night)](https://github.com/youNme213/github-readme-activity-graph)
