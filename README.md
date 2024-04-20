@@ -45,6 +45,4 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
 
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=youNme213&theme=tokyo-night)](https://github.com/youNme213/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=youNme213&theme=tokyo-night)](https://github.com/youNme213/github-readme-activity-graph)-->
